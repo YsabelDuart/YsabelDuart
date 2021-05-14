@@ -6,5 +6,5 @@
 - 🔭 I’m  learning: Python
 - 💬 age:16y
 - 📫 How to reach me: @duarteysabell / ysabelduartepinto@gmail.com
-- 🖥️ SESI/SENAI resende 
+- 🖥️ SESI/ SENAI resende 
 - 🌻 Livin in: Brazil 
