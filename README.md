@@ -1,10 +1,18 @@
 ### Hi, It"s me 👋
 
 
-### Learning :computer:
+   ### About me :computer:
 
-- 🔭 I’m  learning: Python
-- 💬 age:16y
-- 📫 How to reach me: @duarteysabell / ysabelduartepinto@gmail.com
-- 🖥️ SESI/ SENAI resende 
-- 🌻 Livin in: Brazil 
+- 🌱 I’m  learning: Python
+- :woman: age:16y
+- :mailbox_with_no_mail:  ysabelduartepinto@gmail.com
+- :pencil: SESI/ SENAI resende 
+- :pushpin: Livin in: Brazil 
+
+
+
+  
+    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/duarteysabell/) 
+    
+    
+   
