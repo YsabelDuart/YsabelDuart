@@ -1,19 +1,19 @@
 ### Hi, It"s me 👋
 
 
-   ### About me :computer:
+   ### About me 🌼
 
-- 🌱 I’m  learning: Python
+- :computer: learning: Python
 - :woman: age:16y
-- :mailbox_with_no_mail:  ysabelduartepinto@gmail.com
 - :pencil: SESI/ SENAI resende 
 - :pushpin: Livin in: Brazil 
-- languages: English and Portuguese
+- 🧠 languages: English and Portuguese
 
 
+<p>
 
-  
-    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/duarteysabell/) 
+&nbsp; <a href="https://www.instagram.com/duateysabell/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  &nbsp; <a href="ysabelduartepinto@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
     
     
    
