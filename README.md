@@ -8,6 +8,7 @@
 - :mailbox_with_no_mail:  ysabelduartepinto@gmail.com
 - :pencil: SESI/ SENAI resende 
 - :pushpin: Livin in: Brazil 
+- languages: English and Portuguese
 
 
 
