@@ -7,9 +7,9 @@
 - :pencil: SESI/ SENAI resende 
 - :pushpin: Livin in: Brazil 
 - 🧠 languages: English and Portuguese
-- 🤓 Geek : "Knowledge is a weapon. Arm yourself well before going into battle."
-(Maester Aemon)
-game of Thrones
+- 🤓 Geek : "Knowledge is a weapon. Arm yourself well before going into battle." 📚
+(Maester Aemon) /
+Game of Thrones
 
 
 ### Reach me: 
