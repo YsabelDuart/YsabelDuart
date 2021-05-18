@@ -4,10 +4,10 @@
    ### About me 🌼
 
 - :computer: learning: Python
-- :woman: age:16y
 - :pencil: SESI/ SENAI resende 
 - :pushpin: Livin in: Brazil 
 - 🧠 languages: English and Portuguese
+- 🤓 Geek 
 
 
 ### Reach me: 
