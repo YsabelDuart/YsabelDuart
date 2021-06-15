@@ -3,10 +3,10 @@
 
    ### About me 🌼
 
-- :computer: learning: Python
+- :computer: Learning: Python
 - :pencil: SESI/ SENAI em Resende 
 - :pushpin: Livin in: Brazil 
-- 🧠 languages: English and Portuguese
+- 🧠 Languages: English and Portuguese
 - 🤓 Geek : "Knowledge is a weapon. Arm yourself well before going into battle."
           (Maester Aemon) 
       🐉 Game of Thrones
