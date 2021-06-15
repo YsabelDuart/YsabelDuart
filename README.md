@@ -4,7 +4,7 @@
    ### About me 🌼
 
 - :computer: learning: Python
-- :pencil: SESI/ SENAI resende 
+- :pencil: SESI/ SENAI em Resende 
 - :pushpin: Livin in: Brazil 
 - 🧠 languages: English and Portuguese
 - 🤓 Geek : "Knowledge is a weapon. Arm yourself well before going into battle."
