@@ -21,9 +21,3 @@
 </p>
     
     
-    
-<a>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YsabelDuart&show_icons=true&include_all_commits=true&theme=material-palenight" alt="YsabelDuart's github stats" /> 
-   </>
-    
-
