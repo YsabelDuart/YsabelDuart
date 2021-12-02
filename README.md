@@ -3,7 +3,7 @@
 
    ### About me 🌼
 
-- :computer: Learning: Python
+- :computer: Learning: Python, HTML 5 and CSS3
 - :pencil: SESI/ SENAI em Resende 
 - :pushpin: Livin in: Brazil 
 - 🧠 Languages: English and Portuguese
